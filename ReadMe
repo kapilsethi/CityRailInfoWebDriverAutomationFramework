@@ -1,0 +1,11 @@
+Author: Kapil Sethi
+
+Description: WebDriver Automation Framework
+
+Framework stack: Eclipse, TestNG and WebDriver
+
+Sample Website: http://www.cityrail.info
+
+Design Pattern: PageObjectPattern 
+
+Key Features: Used WebDriverWait, Select and ExpectedCondition API's
